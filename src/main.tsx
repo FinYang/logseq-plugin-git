@@ -131,14 +131,14 @@ if (isDevelopment) {
       })
     }
 
-    logseq.App.registerCommandPalette({
-      key: 'logseq-plugin-git:commit&push',
-      label: 'Commit & Push',
-      keybinding: {
-        binding: 'mod+s',
-        mode: 'global',
-      },
-    }, () => operations.commitAndPush())
+    // logseq.App.registerCommandPalette({
+    //   key: 'logseq-plugin-git:commit&push',
+    //   label: 'Commit & Push',
+    //   keybinding: {
+    //     binding: 'mod+s',
+    //     mode: 'global',
+    //   },
+    // }, () => operations.commitAndPush())
 
 
   })
