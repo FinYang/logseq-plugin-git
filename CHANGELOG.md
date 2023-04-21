@@ -1,3 +1,24 @@
+## [1.5.2](https://github.com/haydenull/logseq-plugin-git/compare/v1.5.1...v1.5.2) (2023-04-20)
+
+
+### Bug Fixes
+
+* :bug: the mask was not turned off after initilization ([a84acb5](https://github.com/haydenull/logseq-plugin-git/commit/a84acb5a7133da1f0693c15112ab5c903f0a1774))
+
+## [1.5.1](https://github.com/haydenull/logseq-plugin-git/compare/v1.5.0...v1.5.1) (2023-04-16)
+
+
+### Bug Fixes
+
+* In the Logseq 0.9.2 version, there is an issue with the panel display that needs to be fixed. ([a81bceb](https://github.com/haydenull/logseq-plugin-git/commit/a81bceb10996a6e3d3901fe1f1fef63d6d1c4052))
+
+# [1.5.0](https://github.com/haydenull/logseq-plugin-git/compare/v1.4.2...v1.5.0) (2023-02-14)
+
+
+### Features
+
+* logseq sdk version ([#26](https://github.com/haydenull/logseq-plugin-git/issues/26)) ([d616d82](https://github.com/haydenull/logseq-plugin-git/commit/d616d820df800809cdc37e718fa0a43ff380498b))
+
 ## [1.4.2](https://github.com/haydenull/logseq-plugin-git/compare/v1.4.1...v1.4.2) (2022-11-06)
 
 
